@@ -1,0 +1,15 @@
+.tool > img {
+  width: 3rem;
+}
+
+.title {
+  font-size: 15rem;
+  width: 70%;
+}
+
+.fullname {
+  font-size: 2rem;
+  text-align: end;
+  width: 13%;
+  margin-right: 10%;
+}
