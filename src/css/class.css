@@ -3,7 +3,7 @@
 }
 
 .title {
-  font-size: 1400%;
+  font-size: clamp(15rem, 7vw, 18rem);
   width: 70%;
   margin-left: 1rem;
 }
